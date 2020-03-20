@@ -57,7 +57,8 @@ const QuestionFile = [
     options: [1998, 1999, 2000, 2001]
   },
   {
-    question: "How old is the president of the Central Bank Of Nigeria?",
+    question:
+      "What is the name of the president of the Central Bank Of Nigeria?",
     options: ["El Rufai", "Kayode Fayose", "Atiku Abubakar", "Godwin Emefiele"]
   },
   {

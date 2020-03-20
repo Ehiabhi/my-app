@@ -1,0 +1,38 @@
+body {
+  /* font: normal 14px/100% "Andale Mono", AndaleMono, monospace; */
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #fff;
+  padding: 50px;
+  margin: 0 auto;
+  /* background-color: #374954; */
+  background-color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.container {
+  min-height: 500px;
+  padding: 50px;
+  margin: 0 auto;
+  background-color: rgb(8, 8, 36);
+}
+
+button {
+  display: inline;
+  background-color: rgb(133, 122, 59);
+  border: 0;
+  border-radius: 5px;
+  margin: 20px;
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  width: 35%;
+  min-height: 100px;
+}
